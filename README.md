@@ -4,6 +4,9 @@ A KDE Plasma weather widget displaying current conditions and forecasts, fetched
 
 **Original authors:** Tully Turk, Kate Buckley, Martin Kotelnik
 
+![weather.transp](weather-transp.png)
+![weather.transp](desktop-1.png)
+
 ## Features
 
 - Current temperature, conditions, wind, and precipitation
